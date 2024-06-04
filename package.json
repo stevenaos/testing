@@ -1,0 +1,30 @@
+{
+  "name": "steveng",
+  "version": "2.0.0",
+  "description": "havefun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aldiboytons",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord-webhook-node": "^1.1.8",
+    "discord.js": "^12.5.3",
+    "express": "^4.18.1",
+    "fs": "0.0.1-security",
+    "googleapis": "^137.1.0",
+    "image-downloader": "^3.6.0",
+    "lowdb": "^7.0.1",
+    "luxon": "^3.4.4",
+    "moment": "^2.29.4",
+    "quick.db": "^9.1.7",
+    "rss-parser": "^3.13.0",
+    "sequelize": "^6.37.3",
+    "sqlite3": "^5.1.7",
+    "tiktok-scraper": "^1.4.36",
+    "twilio": "^3.42.0",
+    "whatsapp-chapi": "^1.1.1"
+  }
+}
